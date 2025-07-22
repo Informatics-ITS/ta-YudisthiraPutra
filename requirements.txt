@@ -1,0 +1,21 @@
+# Core NLP libraries
+gensim==4.3.2
+nltk==3.8.1
+stanza==1.6.1
+sastrawi==1.0.1
+
+# Data processing & utilities
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+
+# Streamlit for UI
+streamlit==1.35.0
+
+# Optional: If you use jupyter notebooks
+# jupyter==1.0.0
+
+# No version needed for built-in modules:
+# - re
+# - ast
+# - collections
