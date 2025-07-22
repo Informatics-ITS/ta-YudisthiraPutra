@@ -12,7 +12,8 @@
 
 Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=jWZ0UluRa9k)  
+[![Demo Aplikasi](https://img.youtube.com/vi/jWZ0UluRa9k/0.jpg)](https://www.youtube.com/watch?v=jWZ0UluRa9k)
+ 
 _Klik gambar di atas untuk menonton demo_
 
 ---
